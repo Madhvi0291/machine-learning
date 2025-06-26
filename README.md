@@ -1,8 +1,5 @@
 # machine-learning
 
-Here’s a compelling **GitHub description** for your project titled **"Mobile Phone Price Prediction"**, based on the uploaded notebook `mobile phone prediction.ipynb`:
-
----
 
 ## 📱 Mobile Phone Price Prediction Using Machine Learning
 
@@ -38,6 +35,3 @@ To predict the **price category** of a mobile phone using its specifications, ma
 * Compare feature vs price value
 * Provide recommendations in e-commerce systems
 
----
-
-Would you like me to also generate a full `README.md` for GitHub with installation steps, file structure, and model results like I did for the lung cancer project?
